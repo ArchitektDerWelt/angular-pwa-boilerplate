@@ -1,0 +1,14 @@
+{
+  "name": "Architekt Der Welt Angular PWA Boilerplate",
+  "short_name": "ADW Angular PWA Boilerplate",
+  "description": "Boilerplate used to create PWAs in Webent s.r.o",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "favicon.ico",
+    "sizes": "512x512",
+    "type": "image/x-icon"
+  }],
+  "background_color": "#f22d65",
+  "theme_color": "#f22d65"
+}
